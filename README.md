@@ -1,4 +1,5 @@
-== Randomization-related tools for haxe
+== Randomization-related tools for haxe ==
+==========================================
 
 Currently there are only 2 classes:
  - rnd.FastRNG - abstract-based fast(very fast) RNG, non-cryptosecure.
